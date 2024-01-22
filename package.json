@@ -1,0 +1,23 @@
+{
+  "name": "ssl-cert-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/web-api": "^7.0.1",
+    "axios": "^1.6.5",
+    "chalk": "^4.1.2",
+    "date-fns": "^3.3.1",
+    "https": "^1.0.0",
+    "moment": "^2.30.1",
+    "node-forge": "^1.3.1",
+    "slack": "^11.0.2",
+    "tls": "^0.0.1"
+  }
+}
